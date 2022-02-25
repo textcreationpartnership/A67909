@@ -1,0 +1,580 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A three-fold discourse betweene three neighbours, Algate, Bishopsgate, and John Heyden the late cobler of Hounsditch, a professed Brownist. Whereunto is added a true relation (by way of dittie) of a lamentable fire which happened at Oxford two nights before Christ-tide last, in a religious brothers shop, knowne by the name of Iohn of all-trades.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67909</idno>
+            <idno type="STC">Wing T517</idno>
+            <idno type="STC">ESTC R18689</idno>
+            <idno type="EEBO-CITATION">99860452</idno>
+            <idno type="PROQUEST">99860452</idno>
+            <idno type="VID">112572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E145[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A three-fold discourse betweene three neighbours, Algate, Bishopsgate, and John Heyden the late cobler of Hounsditch, a professed Brownist. Whereunto is added a true relation (by way of dittie) of a lamentable fire which happened at Oxford two nights before Christ-tide last, in a religious brothers shop, knowne by the name of Iohn of all-trades.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Cowles, T. Bates, and I. VVright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Taylor. cf. NUC, pre-1956.</note>
+                  <note>With title page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brownists --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112572:1"/>
+            <pb facs="tcp:112572:1" rendition="simple:additions"/>
+            <p>A Three-fold Diſcourſe betweene three Neighbours, <hi>Algate, Biſhopſgate,</hi> and <hi>John Heyden</hi> the late Cobler of <hi>Hounſditch,</hi> a profeſſed Browniſt.</p>
+            <p>Whereunto is added a true Relation (by way of Dittie) of a lamentable fire which happened at <hi>Oxford</hi> two nights before <hi>Chriſt-tide</hi> laſt, in a religious brothers ſhop, knowne by the name of <hi>Iohn</hi> of <hi>All-trades.</hi>
+            </p>
+            <figure/>
+            <p>LONDON, Printed for <hi>F. Cowles, T. Bates,</hi> and <hi>I. VVright.</hi> MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:112572:2"/>
+            <head>A Three-fold Diſcourſe betweene three Neigh<g ref="char:EOLhyphen"/>bours, <hi>Algate, Biſhopſgate,</hi> and <hi>John Heyden</hi> the late Cobler of <hi>Houndſditch,</hi> a profeſſed Browniſt.</head>
+            <sp>
+               <speaker>Algate.</speaker>
+               <p>
+                  <seg rend="decorInit">S</seg>Iſter of Biſhopſgate, what diſaſtrous times are wee fallen into, did you ever know the like?</p>
+            </sp>
+            <sp>
+               <speaker>Biſhopſgate.</speaker>
+               <p>Siſter be content, you are not yet fallen, you were but lately built by the Citie, <hi>Senatus Populuſ<g ref="char:EOLhyphen"/>que Londinenſis,</hi> in the Mayoraltie of Sir <hi>Humphrey Weld;</hi> but I and my friends are like to come to ruine.</p>
+            </sp>
+            <sp>
+               <speaker>Cobler.</speaker>
+               <p>Truly Land-Lady, the matteris not great, yet I confeſſe I have kept a Coblers ſhop under your noſe theſe two and twentie yeares, yet I never ſaw any great hurt in you, but that you beare the profane and idolatrous name of a Biſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uly Neighbour, it hath not been accounted ſo in times paſt, nor (I hope) neither is or will be in theſe our times.</p>
+            </sp>
+            <sp>
+               <speaker>Cob</speaker>
+               <p>Well, battle-headed Miſtreſſe, I heard a Sermon within theſe few dayes in Moore-fields, the beſt of your Biſhops in the Land might throw his cap at it.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>I <hi>Iohn,</hi> that is the way never to ſee it againe, among ſuch fellowes as you: but are Moore-fields your walks, where you and your fellowes prate to no purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Yes: and verily my new white painted Miſtreſſe, and wee have bet<g ref="char:EOLhyphen"/>ter teaching there, than you have at your dull <hi>Botolphs,</hi> or his brother by you, Miſtreſſe <hi>Biſhopſgate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>Nay, that of my k<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owledge is falſe; ours is an honourable and a great Pariſh, neither is there ſuch a famine of pious and learned Divines a<g ref="char:EOLhyphen"/>mongſt us, like the famine of Samaria, where wee (as you and your Brow<g ref="char:EOLhyphen"/>niſts) muſt value an Aſſes head at foureſcore peeces of ſilver (that is ten pounds Engliſh) for every peece which was a Shekel, is halfe a Crowne of our mo<g ref="char:EOLhyphen"/>ney. How many of your Sermons have beene burned, their Authors hanged, what ridiculous diviſions have you of your Texts? what blaſphemous and detorted expoſitions, abſurd applications? and amongſt you the Text is no ſoo<g ref="char:EOLhyphen"/>ner
+<pb facs="tcp:112572:2"/>read; but preſently you fly from it, as wild beaſts from fire, and fall a rai<g ref="char:EOLhyphen"/>ling againſt railes, tell the people Surplices are ſmocks of the Whore (and I beleeve <hi>Iohn</hi> you are acquainted with ſome of them) and how our Biſhops are like Andirons of State, ſtanding in a Chimney but for a ſhew; but if an heavie block, or ſad billets are brought to the fire, there are poore little iron Creepers or Cobirons underneath, that muſt beare all the weight, and thoſe you reſem<g ref="char:EOLhyphen"/>ble to the inferiour Clergie that take all the paines: and thus in your Tubs, like <hi>Auguſtus</hi> in his Throne, you taxall the world. Truly now you were ſpea<g ref="char:EOLhyphen"/>king of Moore-fields, I am perſwaded never coſt was better beſtowed, I ne<g ref="char:EOLhyphen"/>ver ſaw them, but I have heard as much. Why ſiſter <hi>Aldgate</hi> (or <hi>Eldgate,</hi> if you pleaſe) they are the moſt neceſſary, pleaſant, and the ſweeteſt walks, that can lye by the ſide of any citie in Europe; they ſay thoſe are goodly walks, with foure or five diſtinct rows of trees, which are upon the wals of Antwerp.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>There is a Dutch Candle-maker dwelling in White-Chappell hath oftentimes told me as much, and that thoſe wals were five and thirtie ſtrides or paces broad.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>He ſpake the truth, they are ſo indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Talk no more: Moore fields of it ſelfe is a moſt profane place, they never get my good word, and except upon the Lords day to a teaching or ex<g ref="char:EOLhyphen"/>erciſe I never meane to come thither againe.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>It may be <hi>Iohn,</hi> you are in debt at ſome of the Ale-houſes, and dare not ſhew your head but upon a Lords day, when their doores are ſhut, and all are gone to Church.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>I confeſſe my leather hath beene well liquored at <hi>Burwels</hi> Bable, where Mr. <hi>Geffreſon</hi> ſels the excellent Ale and Cakes: but ſince my converſi<g ref="char:EOLhyphen"/>on I ſay, <hi>Go, I know you not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>And why I pray you neighbour, are Moore-fields become ſo odious in your ſight?</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>For the great offence they give to us the godly and ſober-minded; firſt, they are receptacles of uncleane beaſts.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>That's true indeed, for horſes graze there.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>They carry the mark of the Beaſt.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>As how <hi>Iohn?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Doe you not ſee how the walks are laid out, and made in the forme of a croſſe, which is execrable, abhominable, and intollerable?</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>Why <hi>Iohn,</hi> are not you your ſelfe made in the forme of a croſſe? ſpred but your armes abroad and ſee.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Verily I am, and it is more than ever I knew before, one I ſee may live and learne, but I ſhall like my ſelfe the worſe for it as long as I live.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>No I profeſſe, their foure quarters are railed about in abhominable manner, like a Communion Table; if ſome Pariſhes and Church-wardens I know had the fingring of them, I know what would quickly become of them.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:112572:3"/>
+               <speaker>Alg.</speaker>
+               <p>You have now done, have you any more to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Yes verily, the Popes head is there nail'd up for a ſigne and makes <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> faire a ſhow as Pope-<hi>Ioane</hi> did with her great b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly in Red-ſtreet.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>Rederoſſe-ſtreet you mean, but what of that?</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>It is a burning ſhame it ſhould be tollerated, when al Papiſts in Eng<g ref="char:EOLhyphen"/>land are denyed tollerated.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>It is ſuffered it may be for ſome eſpeciall end which you know not, as perhaps many Papiſts and Popiſh Prieſts belonging to outlandiſh Embaſſadours which lye thereabout walking to take the aire, for the ſignes ſake will rather go thither to drinke a Pint or a quart of wine, then to another place, and ſo perhaps will you and your brethren doe ſometime.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>You are deceived Mrs. we never goe for the ſignes ſake, but for the wines ſake.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>I beleeve you <hi>Iohn,</hi> but what ſay you to the great Turks head hanging out a little beyond?</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>I ſay, from Turke and Pope defend us Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>That was a Pſalm, added to the ſinging Pſalms, long ſince, by one <hi>Ro<g ref="char:EOLhyphen"/>bert Wiſedome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>I beleeve it, it was long ſince <hi>Robert Wiſedome</hi> was ſeene amongſt us, he lived in the time of <hi>Q. Eliz.</hi> And ſince I have not heard of any or very few of that name, it was a Pſalme in my opinion that put downe all the reſt, beſide it had binan excellent tune, my father when he lived in Gooſ-toft, would often whiſtle it at plough.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>But what ſay you <hi>Iohn</hi> to the trees, ſo evenly planted and thriving, which with their eye-pleaſing greene and coole ſhadow in the hot Summer give ſo great delight and content to the whole Citie.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>They looke (mee thinkes) like ſo many of your Biſhops Standing about the Communion railes to defend them.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>Againſt ſuch as you are it may bee.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Nay they looke like Biſhops for all the world for there are Some poore underling trees beſides them which cannot thrive and Proſper, becauſe thoſe greater over-drop them, keepe the ſun from them, or ſuck from earth the Iuice which ſhould nouriſh them, to themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>But what is the reaſon they are called Moor-fields, can you tell mee <hi>Iohn</hi> withall the wit you have?</p>
+            </sp>
+            <sp>
+               <speaker>Cobler.</speaker>
+               <p>Becauſe it may bee there are more fields in England beſide theſe.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>That is without doubt.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Or rather becauſe more learned and godly teaching by us and our bre<g ref="char:EOLhyphen"/>thren is here exerciſed then in the City or the whole land beſide, or it may be they are ſo called from a Blackamoor ſet over an Alley gate in theſe fields.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>Nay <hi>Iohn</hi> now you have overſhot your ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>I talke of Moorefields and not of Finsbury: there indeed is ſhooting and no preaching.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:112572:3"/>
+               <speaker>Biſh.</speaker>
+               <p>But neighbour <hi>Iohn Cobler</hi> let me tell you in good earneſt, when I was built new in the time of K. <hi>Richard</hi> the ſecond, (whoſe ſtatue in ſtone holding his unfortunate and broken Scepter in his hand, I bear upon my Fron<g ref="char:EOLhyphen"/>tiſpiece, on the other ſide <hi>Wenceſlaus</hi> his wives father the Emperour, yet many ſay it was K. <hi>Edward</hi> the 3.) certaine calves tyed about the necks with withs being brought for a preſent to <hi>Wat Tyler</hi> and his Rebels then in Smithfield, whom, (let me tell you by the way) K. <hi>Richard</hi> could plainely diſcerne from Long Acre, ſo rare were houſes and buildings in the Suburbs in thoſe dayes) were all ſtifled and drowned in thoſe fields, which were nothing elſe but a Moore or Quagmire whence they tooke their name, nay it was ſuch within theſe 40. or 50. yeares. Siſter Algate had they brought by your way, (the common roade of calves) they had been out of danger.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Verily Mrs. Algate I have knowne of late yeares many calves to have been brought out of Eſſex and other plaaes unto your Gate, where when they ſhould have entred, their ſimple countrey drivers would not ſuffer them, but drave them home againe.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>They were ſimple indeede, but what was their meaning ſo to doe?</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Why, I will tell you, you carry upon your top two huge Gyants in Armour, holding up and readie as it were to throw down mighty bullets, who affright both the calves and the countrey mon, that I have heard ſome proteſt that for their lives they could not perſwade the driver to venture them throgh this was at their firſt ſetting up, and I well remember in that yeare Veale was ſo ſcarce at Leaden Hall, that hardly any could be got for money.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>
+                  <hi>Iohn</hi> they were placed there to ſhew the auntient defence of Ports, which when the enemy offered to aſſaile or break open, Armed men ſtood aloft and threw downe huge ſtones, peices of timber and ſuch like, to kill or knock them down, but I heare <hi>Iohn</hi> Cobler you are a pretender to Divinity, and are ready to turne Preacher.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Why not I as well as <hi>Walker</hi> the Ironmonger.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>I thinke you never come to any of our Churches in the City.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Very ſeldome; yes, I was halfe a yeere ſince at <hi>Annes</hi> within Alderſ<g ref="char:EOLhyphen"/>gate, and once a fortnight agoe at <hi>Margets</hi> in Weſt minſter.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>St. <hi>Margets</hi> you ſhould ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>The matter is not great, they were built by the Papiſts and ſmell of ſuperſtition to this day, for name any Church about the Citie that was built in time of the Goſpel, Cree-church excepted, and that by Tuttle-ſtreet in Weſt<g ref="char:EOLhyphen"/>minſter not yet execrated, as they call it.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>Conſecrated thou wouldſt ſay, that indeed is new, but Cree-Church was new built upon an old foundation, if we ſhould be all of your opinion: we ſhould come to no Church at all, but heare Sermons in woods as you doe.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Did not <hi>Iohn</hi> Baptiſt preach in the deſart or wilderneſſe? And multi<g ref="char:EOLhyphen"/>tudes of people followed to heare him.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:112572:4"/>
+               <speaker>Biſh.</speaker>
+               <p>
+                  <hi>Iohn</hi> you are much deceived, that was no obſcure place like St. <hi>Iohns</hi> wood whither you and your fellowes goe, but a woodie Countrey wherein were many Towns and Cities, like the forreſt of Sherwood in Nottingham<g ref="char:EOLhyphen"/>ſhire inhabited with many people.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>I will never beleeve that, for all I am a Tranſlator my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>But <hi>Iohn</hi> I pray thee tell me how cameſt thou to bee a Browniſt at the firſt.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>I have heard that the firſt beginner of your Sect was a miſerable Do<g ref="char:EOLhyphen"/>ctor in the Vniverſity who ſold his commons &amp; ſeiz'd away his part of white<g ref="char:EOLhyphen"/>bread and liv'd all the weeke with a ſixpenny browne loafe, which occaſion gave you all your names.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>No our firſt father was Mr. <hi>Browne</hi> parſon of A church in Northamp<g ref="char:EOLhyphen"/>ton-ſhire where hee dyed after his many perſecutions among the wicked.</p>
+            </sp>
+            <sp>
+               <speaker>Alg.</speaker>
+               <p>So he that would have no Church was afterward parſon of a Church.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>But I aſſure you <hi>Iohn</hi> he recanted his opinions and dyed an Orthodox Proteſtant and an honeſt man, it is true he was perſecuted in all places, hee fled into Scotl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, and had been hanged, had he not been neere a kin unto the L. Treaſurer <hi>Cicill,</hi> (for he was a Gentleman borne, and of an ancient family of the <hi>Brownes</hi> of Tolthorpe) beſide he was endued with many good and gentile qualiti<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, among the reſt he was a ſingular good Luteniſt, and he made his Son <hi>T<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mothy</hi> uſually on Sundays bring his Viol to Church and play the Baſe to the Pſalmes that w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re ſung, ſo far was he (like you and your fellows) from being an enemy to Church Muſicke.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>I would have given all the Shooes in my ſhop I had knowne ſo much before. But Landlady Biſhopſgate, and Mrs. Algate, time calls mee away, I have three paire of boots to mend for the Norwich foot-poſt, and a paire of ſhooes for honeſt Mr. <hi>Sacchar</hi> of Buttolphs, and I hope ere long we ſhal meet, and then yfaith I will have a fling at you and your name-ſake the Biſhops.</p>
+            </sp>
+            <sp>
+               <speaker>Biſh.</speaker>
+               <p>Well <hi>Iohn</hi> I ſhall defend thoſe Biſhops well enough, and will Peti<g ref="char:EOLhyphen"/>tion that thoſe Reverend men may have their liberty to go abroad in the days, and repair to their Brother in the Tower againe at night, Farewell.</p>
+            </sp>
+         </div>
+         <div type="ballad">
+            <pb facs="tcp:112572:4"/>
+            <head>
+               <hi>Zeale over-heated:</hi> A Relation of a lamentable fire which happened at <hi>Oxford</hi> two nights before <hi>Chriſt-tide,</hi> in a religi<g ref="char:EOLhyphen"/>ous Brothers ſhop, who though hee laboured in all mens trades, yet his trades were fewer than his tricks, to fetch over the wicked, that he might afford the godly a better Penny-worth.</head>
+            <opener>To the Tune of <hi>Chivey Chace.</hi>
+            </opener>
+            <div n="1" type="part">
+               <lg>
+                  <l>ATtend you brethren, everie one,</l>
+                  <l>And liſten with a paire</l>
+                  <l>Of ſwaggering eares, which have out growne</l>
+                  <l>By many an inch the haire:</l>
+                  <l>Of Popiſh flames I will relate</l>
+                  <l>to you a dolefull ſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rie,</l>
+                  <l>Which turn'd a zealous ſhop of late</l>
+                  <l>into a Purgatorie.</l>
+               </lg>
+               <lg>
+                  <l>There dwels <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n <hi>Oxon</hi> neere the place</l>
+                  <l>where ho<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y <hi>C<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>rniſh</hi> teacheth,</l>
+                  <l>One that i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all trades h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th ſuch grace,</l>
+                  <l>the wicked he <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>-<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaches.</l>
+                  <l>This brother firſt a Stoick was</l>
+                  <l>Peripatetic<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll;</l>
+                  <l>For 'bout the world as he did paſſe,</l>
+                  <l>his wealth he carried all.</l>
+               </lg>
+               <lg>
+                  <l>But when his ſins had made his pack</l>
+                  <l>Too heavie for his ſhoulder,</l>
+                  <l>J'th' foreſaid place he eas'd his back,</l>
+                  <l>and turn'd a ſtaid houſe-holder.</l>
+                  <l>In all occaſions by and by</l>
+                  <l>he grew ſo great a Medler,</l>
+                  <l>That if th'Exchange his ſhop ſtood nigh,</l>
+                  <l>you'd take him for no Pedler,</l>
+               </lg>
+               <lg>
+                  <l>By ſlight of tongue be could fetch ore</l>
+                  <l>all Sparks that came unto him,</l>
+                  <l>Except thoſe which two nights before</l>
+                  <l>Chriſt-tide had like to undoe him.</l>
+                  <l>When he to ſleep himſelfe had ſet,</l>
+                  <l>and dream'd of no more fire,</l>
+                  <l>Than thoſe his zeale and little Pet</l>
+                  <l>kindled in his deſire.</l>
+               </lg>
+               <lg>
+                  <l>He heard ſome cry, <hi>Fire, fire,</hi> amaine,</l>
+                  <l>and ſaid that were he ſlack,</l>
+                  <l>Great <hi>Iohn</hi> of <hi>All trades</hi> would againe</l>
+                  <l>be brought to his firſt pack:</l>
+                  <l>Then haſting dowre to ſee what burn'd,</l>
+                  <l>the ſmoke did almoſt ſtop</l>
+                  <l>His breath: the new Exchange was turn'd</l>
+                  <l>to a Tobacco ſhop.</l>
+               </lg>
+               <lg>
+                  <l>His wiſe came downe at that report,</l>
+                  <l>her cloaths hung in ſuch pickle,</l>
+                  <l>As ſhe were new come from the ſport</l>
+                  <l>after a Converticle:</l>
+                  <l>And firſt in theſe flames ſhe eſpide</l>
+                  <l>a pure Geneva Bible,</l>
+                  <l>With gilded leaves, and ſtrings beſide,</l>
+                  <l>that were not contemptible.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:112572:5"/>
+               <head>The ſecond Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <lg>
+                  <l>B<g ref="char:V">Ʋ</g>t with leſſe grlefe he could have ſeen't,</l>
+                  <l>as he then ſaid to ſome one,</l>
+                  <l>Had but the Apocrypha beene in't,</l>
+                  <l>and Prayers that we call Common:</l>
+                  <l>The Practice there of Pietie,</l>
+                  <l>and good <hi>St. Katherine Stubs</hi>
+                  </l>
+                  <l>Were martyr'd, which oft quoted hee</l>
+                  <l>had heard in ſeverall Tubs.</l>
+               </lg>
+               <lg>
+                  <l>Then being of his <hi>Dods</hi> bereft,</l>
+                  <l>and <hi>Cleavers</hi> all and ſome,</l>
+                  <l>You may preſume that there was left</l>
+                  <l>of Comfor<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s never a Crum.</l>
+                  <l>A cheſt of Cambricks and Holland</l>
+                  <l>was turn'd to a box of tinder,</l>
+                  <l>His virgins tapers out were brand,</l>
+                  <l>th'Extinguiſhers could not hinder.</l>
+               </lg>
+               <lg>
+                  <l>They that his Taffities did ſee,</l>
+                  <l>and various Ribbonds ſtraight</l>
+                  <l>Concluded that in burnt ſilks hee</l>
+                  <l>was richly worth his weight:</l>
+                  <l>His Hobby horſes erſt ſo tame,</l>
+                  <l>ſome babes of grace might run</l>
+                  <l>A race upon them, now became</l>
+                  <l>hot as the Steeds o'th' Sun.</l>
+               </lg>
+               <lg>
+                  <l>Of Canes there ſmoaking lay great ſtore,</l>
+                  <l>his eyes <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one eſpi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d them,</l>
+                  <l>They never were fi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e canes before,</l>
+                  <l>though he had oft bely'd them:</l>
+                  <l>Mirrors and Preſpectives then might</l>
+                  <l>be burning glaſſes call'd;</l>
+                  <l>The fever grew ſo hot that night,</l>
+                  <l>the periwigs grew bald.</l>
+               </lg>
+               <lg>
+                  <l>The Mouſe-traps, Fly-flaps, and whole ſhelves</l>
+                  <l>of whips, with other ſome</l>
+                  <l>Such dreadfull inſtruments themſelves</l>
+                  <l>ſuffer'd a martyrdome:</l>
+                  <l>But to conclude, the flame being done,</l>
+                  <l>ſome that were there did ſweare,</l>
+                  <l>Though Chriſt-tide were not yet begun,</l>
+                  <l>yet was Aſhwedneſday there.</l>
+               </lg>
+               <lg>
+                  <l>Deare brethren, be not then too hot,</l>
+                  <l>for if unto your harme</l>
+                  <l>Your zeale like this take fire, J wot,</l>
+                  <l>you'll wiſh 'twere but luke-warme.</l>
+                  <l>God bleſſe the King, the Queene and Iſſue,</l>
+                  <l>Nobles and Parliament,</l>
+                  <l>And may all ſuch affrightments miſſe you</l>
+                  <l>of the furious element.</l>
+               </lg>
+               <lg>
+                  <l>And keep all from diſaſters,</l>
+                  <l>And ſuch as now good ſervants are,</l>
+                  <l>May never prove bad maſters.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112572:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
